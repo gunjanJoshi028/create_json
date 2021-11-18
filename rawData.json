@@ -1,0 +1,2125 @@
+
+{
+  "data": [
+    {
+      "driver": {
+        "timezone": "America/New_York",
+        "eldSettings": {
+          "rulesets": [
+            {
+              "break": "Property (off-duty/sleeper)",
+              "cycle": "USA 70 hour / 8 day",
+              "restart": "34-hour Restart",
+              "shift": "US Interstate Property"
+            }
+          ]
+        },
+        "id": "1132140",
+        "name": "Mark Sloan"
+      },
+      "startTime": "2021-11-11T05:00:00.000Z",
+      "endTime": "2021-11-12T05:00:00.000Z",
+      "logMetaData": {
+        "shippingDocs": "Xgs flooring",
+        "vehicles": [
+          {
+            "id": "212014918018790",
+            "name": "335295",
+            "externalIds": {
+              "samsara.serial": "GRSUUSVHPD",
+              "samsara.vin": "3HAEUMMN8LL317597"
+            }
+          }
+        ],
+        "isCertified": true,
+        "certifiedAtTime": "2021-11-12T11:59:35.104Z",
+        "adverseDrivingClaimed": false,
+        "bigDayClaimed": false,
+        "isUsShortHaulActive": false,
+        "carrierName": "Xpress Global System LLC.",
+        "carrierFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755",
+        "carrierUsDotNumber": 534817,
+        "homeTerminalName": "Xpress Global System LLC.",
+        "homeTerminalFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755"
+      },
+      "distanceTraveled": {
+        "driveDistanceMeters": 424295
+      },
+      "dutyStatusDurations": {
+        "activeDurationMs": 37534000,
+        "onDutyDurationMs": 14144284,
+        "driveDurationMs": 23389716,
+        "offDutyDurationMs": 48865999,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      },
+      "pendingDutyStatusDurations": {
+        "activeDurationMs": 37534000,
+        "onDutyDurationMs": 14144284,
+        "driveDurationMs": 23389716,
+        "offDutyDurationMs": 48865999,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      }
+    },
+    {
+      "driver": {
+        "timezone": "America/New_York",
+        "eldSettings": {
+          "rulesets": [
+            {
+              "break": "Property (off-duty/sleeper)",
+              "cycle": "USA 70 hour / 8 day",
+              "restart": "34-hour Restart",
+              "shift": "US Interstate Property"
+            }
+          ]
+        },
+        "id": "1132143",
+        "name": "Roger Burkhart"
+      },
+      "startTime": "2021-11-11T05:00:00.000Z",
+      "endTime": "2021-11-12T05:00:00.000Z",
+      "logMetaData": {
+        "shippingDocs": "",
+        "trailerNames": [
+          "316171",
+          "547112",
+          "313038"
+        ],
+        "vehicles": [
+          {
+            "id": "212014918018491",
+            "name": "162198",
+            "externalIds": {
+              "samsara.serial": "GTD3DT27BG",
+              "samsara.vin": "1FUJGLDR9HLHY3111"
+            }
+          }
+        ],
+        "isCertified": true,
+        "certifiedAtTime": "2021-11-12T04:08:01.250Z",
+        "adverseDrivingClaimed": false,
+        "bigDayClaimed": false,
+        "isUsShortHaulActive": false,
+        "carrierName": "Xpress Global System LLC.",
+        "carrierFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755",
+        "carrierUsDotNumber": 534817,
+        "homeTerminalName": "Xpress Global System LLC.",
+        "homeTerminalFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755"
+      },
+      "distanceTraveled": {
+        "driveDistanceMeters": 323579
+      },
+      "dutyStatusDurations": {
+        "activeDurationMs": 41151000,
+        "onDutyDurationMs": 19113984,
+        "driveDurationMs": 22037016,
+        "offDutyDurationMs": 45248999,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      },
+      "pendingDutyStatusDurations": {
+        "activeDurationMs": 41151000,
+        "onDutyDurationMs": 19113984,
+        "driveDurationMs": 22037016,
+        "offDutyDurationMs": 45248999,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      }
+    },
+    {
+      "driver": {
+        "timezone": "America/New_York",
+        "eldSettings": {
+          "rulesets": [
+            {
+              "break": "Property (off-duty/sleeper)",
+              "cycle": "USA 70 hour / 8 day",
+              "restart": "34-hour Restart",
+              "shift": "US Interstate Property"
+            }
+          ]
+        },
+        "id": "1169233",
+        "name": "Josh Bradberry"
+      },
+      "startTime": "2021-11-11T05:00:00.000Z",
+      "endTime": "2021-11-12T05:00:00.000Z",
+      "logMetaData": {
+        "shippingDocs": "Flooring",
+        "trailerNames": [
+          "317329",
+          "316187",
+          "313108",
+          "316224"
+        ],
+        "vehicles": [
+          {
+            "id": "212014918018467",
+            "name": "102434",
+            "externalIds": {
+              "samsara.serial": "G4HAMSEZJZ",
+              "samsara.vin": "3AKJGEDV3FSGC9516"
+            }
+          }
+        ],
+        "isCertified": true,
+        "certifiedAtTime": "2021-11-12T12:16:14.499Z",
+        "adverseDrivingClaimed": false,
+        "bigDayClaimed": false,
+        "isUsShortHaulActive": false,
+        "carrierName": "Xpress Global System LLC.",
+        "carrierFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755",
+        "carrierUsDotNumber": 534817,
+        "homeTerminalName": "Xpress Global System LLC.",
+        "homeTerminalFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755"
+      },
+      "distanceTraveled": {
+        "driveDistanceMeters": 828593
+      },
+      "dutyStatusDurations": {
+        "activeDurationMs": 42891000,
+        "onDutyDurationMs": 4565116,
+        "driveDurationMs": 34730797,
+        "offDutyDurationMs": 43508999,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 3595087,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      },
+      "pendingDutyStatusDurations": {
+        "activeDurationMs": 42891000,
+        "onDutyDurationMs": 4565116,
+        "driveDurationMs": 34730797,
+        "offDutyDurationMs": 43508999,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 3595087,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      }
+    },
+    {
+      "driver": {
+        "timezone": "America/New_York",
+        "eldSettings": {
+          "rulesets": [
+            {
+              "break": "Property (off-duty/sleeper)",
+              "cycle": "USA 70 hour / 8 day",
+              "restart": "34-hour Restart",
+              "shift": "US Interstate Property"
+            }
+          ]
+        },
+        "id": "1234674",
+        "name": "Hannah Crockett"
+      },
+      "startTime": "2021-11-11T05:00:00.000Z",
+      "endTime": "2021-11-12T05:00:00.000Z",
+      "logMetaData": {
+        "shippingDocs": "",
+        "trailerNames": [
+          "313110"
+        ],
+        "vehicles": [
+          {
+            "id": "212014918018398",
+            "name": "162172",
+            "externalIds": {
+              "samsara.serial": "GDXUFCZ2HA",
+              "samsara.vin": "1FUGGEDV9HLHY3760"
+            }
+          }
+        ],
+        "isCertified": false,
+        "adverseDrivingClaimed": false,
+        "bigDayClaimed": false,
+        "isUsShortHaulActive": false,
+        "carrierName": "Xpress Global System LLC.",
+        "carrierFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755",
+        "carrierUsDotNumber": 534817,
+        "homeTerminalName": "",
+        "homeTerminalFormattedAddress": ""
+      },
+      "distanceTraveled": {
+        "driveDistanceMeters": 126243
+      },
+      "dutyStatusDurations": {
+        "activeDurationMs": 26949000,
+        "onDutyDurationMs": 18511650,
+        "driveDurationMs": 8437350,
+        "offDutyDurationMs": 59450999,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      },
+      "pendingDutyStatusDurations": {
+        "activeDurationMs": 26949000,
+        "onDutyDurationMs": 18511650,
+        "driveDurationMs": 8437350,
+        "offDutyDurationMs": 59450999,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      }
+    },
+    {
+      "driver": {
+        "timezone": "America/New_York",
+        "eldSettings": {
+          "rulesets": [
+            {
+              "break": "Property (off-duty/sleeper)",
+              "cycle": "USA 70 hour / 8 day",
+              "restart": "34-hour Restart",
+              "shift": "US Interstate Property"
+            }
+          ]
+        },
+        "id": "1460239",
+        "name": "David  Harper"
+      },
+      "startTime": "2021-11-11T05:00:00.000Z",
+      "endTime": "2021-11-12T05:00:00.000Z",
+      "logMetaData": {
+        "shippingDocs": "788424",
+        "trailerNames": [
+          "313053"
+        ],
+        "vehicles": [
+          {
+            "id": "281474978677514",
+            "name": "123591",
+            "externalIds": {
+              "samsara.serial": "G9K9F7H8SY",
+              "samsara.vin": "1FUJGLDR9GLGT8861"
+            }
+          }
+        ],
+        "isCertified": true,
+        "certifiedAtTime": "2021-11-12T09:55:47.573Z",
+        "adverseDrivingClaimed": false,
+        "bigDayClaimed": false,
+        "isUsShortHaulActive": false,
+        "carrierName": "Xpress Global System LLC.",
+        "carrierFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755",
+        "carrierUsDotNumber": 534817,
+        "homeTerminalName": "Xpress Global System LLC.",
+        "homeTerminalFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755"
+      },
+      "distanceTraveled": {
+        "driveDistanceMeters": 917120
+      },
+      "dutyStatusDurations": {
+        "activeDurationMs": 37426986,
+        "onDutyDurationMs": 2479005,
+        "driveDurationMs": 33376975,
+        "offDutyDurationMs": 48973013,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 1571006,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      },
+      "pendingDutyStatusDurations": {
+        "activeDurationMs": 37426986,
+        "onDutyDurationMs": 2479005,
+        "driveDurationMs": 33376975,
+        "offDutyDurationMs": 48973013,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 1571006,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      }
+    },
+    {
+      "driver": {
+        "timezone": "America/New_York",
+        "eldSettings": {
+          "rulesets": [
+            {
+              "break": "Property (off-duty/sleeper)",
+              "cycle": "USA 70 hour / 8 day",
+              "restart": "34-hour Restart",
+              "shift": "US Interstate Property"
+            }
+          ]
+        },
+        "id": "1460242",
+        "name": "Milika White"
+      },
+      "startTime": "2021-11-11T05:00:00.000Z",
+      "endTime": "2021-11-12T05:00:00.000Z",
+      "logMetaData": {
+        "shippingDocs": "788281",
+        "trailerNames": [
+          "313003"
+        ],
+        "vehicles": [
+          {
+            "id": "212014918018454",
+            "name": "162194",
+            "externalIds": {
+              "samsara.serial": "GSWXHG4TK2",
+              "samsara.vin": "1FUJGLDR7HLHY3107"
+            }
+          }
+        ],
+        "isCertified": true,
+        "certifiedAtTime": "2021-11-11T23:40:11.592Z",
+        "adverseDrivingClaimed": false,
+        "bigDayClaimed": false,
+        "isUsShortHaulActive": false,
+        "carrierName": "Xpress Global System LLC.",
+        "carrierFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755",
+        "carrierUsDotNumber": 534817,
+        "homeTerminalName": "Xpress Global System LLC.",
+        "homeTerminalFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755"
+      },
+      "distanceTraveled": {
+        "driveDistanceMeters": 997702
+      },
+      "dutyStatusDurations": {
+        "activeDurationMs": 38091969,
+        "onDutyDurationMs": 1455015,
+        "driveDurationMs": 36636954,
+        "offDutyDurationMs": 48308030,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      },
+      "pendingDutyStatusDurations": {
+        "activeDurationMs": 38091969,
+        "onDutyDurationMs": 1455015,
+        "driveDurationMs": 36636954,
+        "offDutyDurationMs": 48308030,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      }
+    },
+    {
+      "driver": {
+        "timezone": "America/New_York",
+        "eldSettings": {
+          "rulesets": [
+            {
+              "break": "Property (off-duty/sleeper)",
+              "cycle": "USA 70 hour / 8 day",
+              "restart": "34-hour Restart",
+              "shift": "US Interstate Property"
+            }
+          ]
+        },
+        "id": "1460243",
+        "name": "Paul Collins"
+      },
+      "startTime": "2021-11-11T05:00:00.000Z",
+      "endTime": "2021-11-12T05:00:00.000Z",
+      "logMetaData": {
+        "shippingDocs": "",
+        "isCertified": false,
+        "adverseDrivingClaimed": false,
+        "bigDayClaimed": false,
+        "isUsShortHaulActive": false,
+        "carrierName": "",
+        "carrierFormattedAddress": "",
+        "carrierUsDotNumber": 0,
+        "homeTerminalName": "",
+        "homeTerminalFormattedAddress": ""
+      },
+      "distanceTraveled": {
+        "driveDistanceMeters": 0
+      },
+      "dutyStatusDurations": {
+        "activeDurationMs": 0,
+        "onDutyDurationMs": 0,
+        "driveDurationMs": 0,
+        "offDutyDurationMs": 86399999,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      },
+      "pendingDutyStatusDurations": {
+        "activeDurationMs": 0,
+        "onDutyDurationMs": 0,
+        "driveDurationMs": 0,
+        "offDutyDurationMs": 86399999,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      }
+    },
+    {
+      "driver": {
+        "timezone": "America/New_York",
+        "eldSettings": {
+          "rulesets": [
+            {
+              "break": "Property (off-duty/sleeper)",
+              "cycle": "USA 70 hour / 8 day",
+              "restart": "34-hour Restart",
+              "shift": "US Interstate Property"
+            }
+          ]
+        },
+        "id": "1460244",
+        "name": "Jeremiah Stevens"
+      },
+      "startTime": "2021-11-11T05:00:00.000Z",
+      "endTime": "2021-11-12T05:00:00.000Z",
+      "logMetaData": {
+        "shippingDocs": "",
+        "vehicles": [
+          {
+            "id": "212014918018646",
+            "name": "277718",
+            "externalIds": {
+              "samsara.serial": "GX8DGPC2SN",
+              "samsara.vin": "3AKJHLDV4JSJT0770"
+            }
+          }
+        ],
+        "isCertified": true,
+        "certifiedAtTime": "2021-11-12T11:42:46.487Z",
+        "adverseDrivingClaimed": false,
+        "bigDayClaimed": false,
+        "isUsShortHaulActive": false,
+        "carrierName": "Xpress Global System LLC.",
+        "carrierFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755",
+        "carrierUsDotNumber": 534817,
+        "homeTerminalName": "Xpress Global System LLC.",
+        "homeTerminalFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755"
+      },
+      "distanceTraveled": {
+        "driveDistanceMeters": 1015900
+      },
+      "dutyStatusDurations": {
+        "activeDurationMs": 40069999,
+        "onDutyDurationMs": 2858031,
+        "driveDurationMs": 35648942,
+        "offDutyDurationMs": 46330000,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 1563026,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      },
+      "pendingDutyStatusDurations": {
+        "activeDurationMs": 40069999,
+        "onDutyDurationMs": 2858031,
+        "driveDurationMs": 35648942,
+        "offDutyDurationMs": 46330000,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 1563026,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      }
+    },
+    {
+      "driver": {
+        "timezone": "America/New_York",
+        "eldSettings": {
+          "rulesets": [
+            {
+              "break": "Property (off-duty/sleeper)",
+              "cycle": "USA 70 hour / 8 day",
+              "restart": "34-hour Restart",
+              "shift": "US Interstate Property"
+            }
+          ]
+        },
+        "id": "1460246",
+        "name": "James Saltsman"
+      },
+      "startTime": "2021-11-11T05:00:00.000Z",
+      "endTime": "2021-11-12T05:00:00.000Z",
+      "logMetaData": {
+        "shippingDocs": "",
+        "vehicles": [
+          {
+            "id": "281474977610169",
+            "name": "121293",
+            "externalIds": {
+              "samsara.serial": "GST7S44S72",
+              "samsara.vin": "3AKJGEDVXFSGS3636"
+            }
+          }
+        ],
+        "isCertified": true,
+        "certifiedAtTime": "2021-11-12T05:00:16.118Z",
+        "adverseDrivingClaimed": false,
+        "bigDayClaimed": false,
+        "isUsShortHaulActive": false,
+        "carrierName": "Xpress Global System LLC.",
+        "carrierFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755",
+        "carrierUsDotNumber": 534817,
+        "homeTerminalName": "Xpress Global System LLC.",
+        "homeTerminalFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755"
+      },
+      "distanceTraveled": {
+        "driveDistanceMeters": 322706
+      },
+      "dutyStatusDurations": {
+        "activeDurationMs": 36158999,
+        "onDutyDurationMs": 18184850,
+        "driveDurationMs": 17974149,
+        "offDutyDurationMs": 50241000,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      },
+      "pendingDutyStatusDurations": {
+        "activeDurationMs": 36158999,
+        "onDutyDurationMs": 18184850,
+        "driveDurationMs": 17974149,
+        "offDutyDurationMs": 50241000,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      }
+    },
+    {
+      "driver": {
+        "timezone": "America/New_York",
+        "eldSettings": {
+          "rulesets": [
+            {
+              "break": "Property (off-duty/sleeper)",
+              "cycle": "USA 70 hour / 8 day",
+              "restart": "34-hour Restart",
+              "shift": "US Interstate Property"
+            }
+          ]
+        },
+        "id": "1460248",
+        "name": "William  Bridwell"
+      },
+      "startTime": "2021-11-11T05:00:00.000Z",
+      "endTime": "2021-11-12T05:00:00.000Z",
+      "logMetaData": {
+        "shippingDocs": "",
+        "isCertified": false,
+        "adverseDrivingClaimed": false,
+        "bigDayClaimed": false,
+        "isUsShortHaulActive": false,
+        "carrierName": "",
+        "carrierFormattedAddress": "",
+        "carrierUsDotNumber": 0,
+        "homeTerminalName": "",
+        "homeTerminalFormattedAddress": ""
+      },
+      "distanceTraveled": {
+        "driveDistanceMeters": 0
+      },
+      "dutyStatusDurations": {
+        "activeDurationMs": 86399999,
+        "onDutyDurationMs": 86399999,
+        "driveDurationMs": 0,
+        "offDutyDurationMs": 0,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      },
+      "pendingDutyStatusDurations": {
+        "activeDurationMs": 86399999,
+        "onDutyDurationMs": 86399999,
+        "driveDurationMs": 0,
+        "offDutyDurationMs": 0,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      }
+    },
+    {
+      "driver": {
+        "timezone": "America/New_York",
+        "eldSettings": {
+          "rulesets": [
+            {
+              "break": "Property (off-duty/sleeper)",
+              "cycle": "USA 70 hour / 8 day",
+              "restart": "34-hour Restart",
+              "shift": "US Interstate Property"
+            }
+          ]
+        },
+        "id": "1460249",
+        "name": "Gary Jackson"
+      },
+      "startTime": "2021-11-11T05:00:00.000Z",
+      "endTime": "2021-11-12T05:00:00.000Z",
+      "logMetaData": {
+        "shippingDocs": "788414",
+        "trailerNames": [
+          "313032"
+        ],
+        "vehicles": [
+          {
+            "id": "212014918018632",
+            "name": "162190",
+            "externalIds": {
+              "samsara.serial": "GN9W9SGEKZ",
+              "samsara.vin": "1FUJGLDRXHLHY3103"
+            }
+          }
+        ],
+        "isCertified": true,
+        "certifiedAtTime": "2021-11-13T00:09:28.203Z",
+        "adverseDrivingClaimed": false,
+        "bigDayClaimed": false,
+        "isUsShortHaulActive": false,
+        "carrierName": "Xpress Global System LLC.",
+        "carrierFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755",
+        "carrierUsDotNumber": 534817,
+        "homeTerminalName": "Xpress Global System LLC.",
+        "homeTerminalFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755"
+      },
+      "distanceTraveled": {
+        "driveDistanceMeters": 993651
+      },
+      "dutyStatusDurations": {
+        "activeDurationMs": 39806039,
+        "onDutyDurationMs": 3552209,
+        "driveDurationMs": 36253830,
+        "offDutyDurationMs": 46593960,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      },
+      "pendingDutyStatusDurations": {
+        "activeDurationMs": 39806039,
+        "onDutyDurationMs": 3552209,
+        "driveDurationMs": 36253830,
+        "offDutyDurationMs": 46593960,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      }
+    },
+    {
+      "driver": {
+        "timezone": "America/New_York",
+        "eldSettings": {
+          "rulesets": [
+            {
+              "break": "Property (off-duty/sleeper)",
+              "cycle": "USA 70 hour / 8 day",
+              "restart": "34-hour Restart",
+              "shift": "US Interstate Property"
+            }
+          ]
+        },
+        "id": "1460250",
+        "name": "Mel Atcitty"
+      },
+      "startTime": "2021-11-11T05:00:00.000Z",
+      "endTime": "2021-11-12T05:00:00.000Z",
+      "logMetaData": {
+        "shippingDocs": "",
+        "trailerNames": [
+          "317361",
+          "316211",
+          "v5307"
+        ],
+        "vehicles": [
+          {
+            "id": "281474978559767",
+            "name": "303242",
+            "externalIds": {
+              "samsara.serial": "G5MBKVSU3U",
+              "samsara.vin": "3AKJGEDV2JSJH1943"
+            }
+          }
+        ],
+        "isCertified": true,
+        "certifiedAtTime": "2021-11-12T14:32:55.395Z",
+        "adverseDrivingClaimed": false,
+        "bigDayClaimed": false,
+        "isUsShortHaulActive": false,
+        "carrierName": "Xpress Global System LLC.",
+        "carrierFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755",
+        "carrierUsDotNumber": 534817,
+        "homeTerminalName": "Xpress Global System LLC.",
+        "homeTerminalFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755"
+      },
+      "distanceTraveled": {
+        "driveDistanceMeters": 211414
+      },
+      "dutyStatusDurations": {
+        "activeDurationMs": 30118000,
+        "onDutyDurationMs": 16887437,
+        "driveDurationMs": 13230563,
+        "offDutyDurationMs": 56281999,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      },
+      "pendingDutyStatusDurations": {
+        "activeDurationMs": 30118000,
+        "onDutyDurationMs": 16887437,
+        "driveDurationMs": 13230563,
+        "offDutyDurationMs": 56281999,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      }
+    },
+    {
+      "driver": {
+        "timezone": "America/New_York",
+        "eldSettings": {
+          "rulesets": [
+            {
+              "break": "Property (off-duty/sleeper)",
+              "cycle": "USA 70 hour / 8 day",
+              "restart": "34-hour Restart",
+              "shift": "US Interstate Property"
+            }
+          ]
+        },
+        "id": "1460251",
+        "name": "Edward Lepker"
+      },
+      "startTime": "2021-11-11T05:00:00.000Z",
+      "endTime": "2021-11-12T05:00:00.000Z",
+      "logMetaData": {
+        "shippingDocs": "",
+        "trailerNames": [
+          "316175",
+          "316188",
+          "317384",
+          "317352",
+          "313130"
+        ],
+        "vehicles": [
+          {
+            "id": "212014918018875",
+            "name": "316882",
+            "externalIds": {
+              "samsara.serial": "GY4VDM2X3E",
+              "samsara.vin": "3AKJHLDVXJSJW9783"
+            }
+          }
+        ],
+        "isCertified": true,
+        "certifiedAtTime": "2021-11-11T11:27:00.515Z",
+        "adverseDrivingClaimed": false,
+        "bigDayClaimed": false,
+        "isUsShortHaulActive": false,
+        "carrierName": "Xpress Global System LLC.",
+        "carrierFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755",
+        "carrierUsDotNumber": 534817,
+        "homeTerminalName": "Xpress Global System LLC.",
+        "homeTerminalFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755"
+      },
+      "distanceTraveled": {
+        "driveDistanceMeters": 542918
+      },
+      "dutyStatusDurations": {
+        "activeDurationMs": 18603947,
+        "onDutyDurationMs": 0,
+        "driveDurationMs": 18148947,
+        "offDutyDurationMs": 67796052,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 455000,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      },
+      "pendingDutyStatusDurations": {
+        "activeDurationMs": 18603947,
+        "onDutyDurationMs": 0,
+        "driveDurationMs": 18148947,
+        "offDutyDurationMs": 67796052,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 455000,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      }
+    },
+    {
+      "driver": {
+        "timezone": "America/New_York",
+        "eldSettings": {
+          "rulesets": [
+            {
+              "break": "Property (off-duty/sleeper)",
+              "cycle": "USA 70 hour / 8 day",
+              "restart": "34-hour Restart",
+              "shift": "US Interstate Property"
+            }
+          ]
+        },
+        "id": "1460253",
+        "name": "Steve Williams"
+      },
+      "startTime": "2021-11-11T05:00:00.000Z",
+      "endTime": "2021-11-12T05:00:00.000Z",
+      "logMetaData": {
+        "shippingDocs": "",
+        "isCertified": false,
+        "adverseDrivingClaimed": false,
+        "bigDayClaimed": false,
+        "isUsShortHaulActive": false,
+        "carrierName": "",
+        "carrierFormattedAddress": "",
+        "carrierUsDotNumber": 0,
+        "homeTerminalName": "",
+        "homeTerminalFormattedAddress": ""
+      },
+      "distanceTraveled": {
+        "driveDistanceMeters": 0
+      },
+      "dutyStatusDurations": {
+        "activeDurationMs": 0,
+        "onDutyDurationMs": 0,
+        "driveDurationMs": 0,
+        "offDutyDurationMs": 86399999,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      },
+      "pendingDutyStatusDurations": {
+        "activeDurationMs": 0,
+        "onDutyDurationMs": 0,
+        "driveDurationMs": 0,
+        "offDutyDurationMs": 86399999,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      }
+    },
+    {
+      "driver": {
+        "timezone": "America/New_York",
+        "eldSettings": {
+          "rulesets": [
+            {
+              "break": "Property (off-duty/sleeper)",
+              "cycle": "USA 70 hour / 8 day",
+              "restart": "34-hour Restart",
+              "shift": "US Interstate Property"
+            }
+          ]
+        },
+        "id": "1460254",
+        "name": "Alvin Smith"
+      },
+      "startTime": "2021-11-11T05:00:00.000Z",
+      "endTime": "2021-11-12T05:00:00.000Z",
+      "logMetaData": {
+        "shippingDocs": "",
+        "vehicles": [
+          {
+            "id": "281474978415182",
+            "name": "126919",
+            "externalIds": {
+              "samsara.serial": "GWYD9ZKGRF",
+              "samsara.vin": "3AKJGEDV2GSGV9726"
+            }
+          }
+        ],
+        "isCertified": true,
+        "certifiedAtTime": "2021-11-12T06:10:58.343Z",
+        "adverseDrivingClaimed": false,
+        "bigDayClaimed": false,
+        "isUsShortHaulActive": false,
+        "carrierName": "Xpress Global System LLC.",
+        "carrierFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755",
+        "carrierUsDotNumber": 534817,
+        "homeTerminalName": "Xpress Global System LLC.",
+        "homeTerminalFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755"
+      },
+      "distanceTraveled": {
+        "driveDistanceMeters": 1040429
+      },
+      "dutyStatusDurations": {
+        "activeDurationMs": 40046999,
+        "onDutyDurationMs": 99006,
+        "driveDurationMs": 36414961,
+        "offDutyDurationMs": 46353000,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 3533032,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      },
+      "pendingDutyStatusDurations": {
+        "activeDurationMs": 40046999,
+        "onDutyDurationMs": 99006,
+        "driveDurationMs": 36414961,
+        "offDutyDurationMs": 46353000,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 3533032,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      }
+    },
+    {
+      "driver": {
+        "timezone": "America/New_York",
+        "eldSettings": {
+          "rulesets": [
+            {
+              "break": "Property (off-duty/sleeper)",
+              "cycle": "USA 70 hour / 8 day",
+              "restart": "34-hour Restart",
+              "shift": "US Interstate Property"
+            }
+          ]
+        },
+        "id": "1460259",
+        "name": "Sammy Faw"
+      },
+      "startTime": "2021-11-11T05:00:00.000Z",
+      "endTime": "2021-11-12T05:00:00.000Z",
+      "logMetaData": {
+        "shippingDocs": "788415",
+        "trailerNames": [
+          "313083"
+        ],
+        "vehicles": [
+          {
+            "id": "212014918018727",
+            "name": "316242",
+            "externalIds": {
+              "samsara.serial": "GT4A3H9XVY",
+              "samsara.vin": "3AKJHHDR0JSJR1341"
+            }
+          }
+        ],
+        "isCertified": true,
+        "certifiedAtTime": "2021-11-12T14:45:37.324Z",
+        "adverseDrivingClaimed": false,
+        "bigDayClaimed": false,
+        "isUsShortHaulActive": false,
+        "carrierName": "Xpress Global System LLC.",
+        "carrierFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755",
+        "carrierUsDotNumber": 534817,
+        "homeTerminalName": "Xpress Global System LLC.",
+        "homeTerminalFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755"
+      },
+      "distanceTraveled": {
+        "driveDistanceMeters": 993594
+      },
+      "dutyStatusDurations": {
+        "activeDurationMs": 43747000,
+        "onDutyDurationMs": 4735113,
+        "driveDurationMs": 36212843,
+        "offDutyDurationMs": 41509000,
+        "sleeperBerthDurationMs": 1143999,
+        "yardMoveDurationMs": 2799044,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      },
+      "pendingDutyStatusDurations": {
+        "activeDurationMs": 43747000,
+        "onDutyDurationMs": 4735113,
+        "driveDurationMs": 36212843,
+        "offDutyDurationMs": 41509000,
+        "sleeperBerthDurationMs": 1143999,
+        "yardMoveDurationMs": 2799044,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      }
+    },
+    {
+      "driver": {
+        "timezone": "America/New_York",
+        "eldSettings": {
+          "rulesets": [
+            {
+              "break": "Property (off-duty/sleeper)",
+              "cycle": "USA 70 hour / 8 day",
+              "restart": "34-hour Restart",
+              "shift": "US Interstate Property"
+            }
+          ]
+        },
+        "id": "1460260",
+        "name": "Kathy Slone"
+      },
+      "startTime": "2021-11-11T05:00:00.000Z",
+      "endTime": "2021-11-12T05:00:00.000Z",
+      "logMetaData": {
+        "shippingDocs": "LTL",
+        "trailerNames": [
+          "520754"
+        ],
+        "vehicles": [
+          {
+            "id": "212014918018469",
+            "name": "162175",
+            "externalIds": {
+              "samsara.serial": "GE688KS7YB",
+              "samsara.vin": "1FUGGEDV4HLHY3763"
+            }
+          }
+        ],
+        "isCertified": true,
+        "certifiedAtTime": "2021-11-12T23:10:32.937Z",
+        "adverseDrivingClaimed": false,
+        "bigDayClaimed": false,
+        "isUsShortHaulActive": false,
+        "carrierName": "Xpress Global System LLC.",
+        "carrierFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755",
+        "carrierUsDotNumber": 534817,
+        "homeTerminalName": "Xpress Global System LLC.",
+        "homeTerminalFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755"
+      },
+      "distanceTraveled": {
+        "driveDistanceMeters": 102986
+      },
+      "dutyStatusDurations": {
+        "activeDurationMs": 30120000,
+        "onDutyDurationMs": 20335887,
+        "driveDurationMs": 9784113,
+        "offDutyDurationMs": 56279999,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      },
+      "pendingDutyStatusDurations": {
+        "activeDurationMs": 30120000,
+        "onDutyDurationMs": 20335887,
+        "driveDurationMs": 9784113,
+        "offDutyDurationMs": 56279999,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      }
+    },
+    {
+      "driver": {
+        "timezone": "America/New_York",
+        "eldSettings": {
+          "rulesets": [
+            {
+              "break": "Property (off-duty/sleeper)",
+              "cycle": "USA 70 hour / 8 day",
+              "restart": "34-hour Restart",
+              "shift": "US Interstate Property"
+            }
+          ]
+        },
+        "id": "1460262",
+        "name": "Mark Trent"
+      },
+      "startTime": "2021-11-11T05:00:00.000Z",
+      "endTime": "2021-11-12T05:00:00.000Z",
+      "logMetaData": {
+        "shippingDocs": "",
+        "vehicles": [
+          {
+            "id": "212014918018646",
+            "name": "277718",
+            "externalIds": {
+              "samsara.serial": "GX8DGPC2SN",
+              "samsara.vin": "3AKJHLDV4JSJT0770"
+            }
+          }
+        ],
+        "isCertified": false,
+        "adverseDrivingClaimed": false,
+        "bigDayClaimed": false,
+        "isUsShortHaulActive": false,
+        "carrierName": "",
+        "carrierFormattedAddress": "",
+        "carrierUsDotNumber": 0,
+        "homeTerminalName": "",
+        "homeTerminalFormattedAddress": ""
+      },
+      "distanceTraveled": {
+        "driveDistanceMeters": 121505
+      },
+      "dutyStatusDurations": {
+        "activeDurationMs": 27954000,
+        "onDutyDurationMs": 19704123,
+        "driveDurationMs": 8249877,
+        "offDutyDurationMs": 58445999,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      },
+      "pendingDutyStatusDurations": {
+        "activeDurationMs": 27954000,
+        "onDutyDurationMs": 19704123,
+        "driveDurationMs": 8249877,
+        "offDutyDurationMs": 58445999,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      }
+    },
+    {
+      "driver": {
+        "timezone": "America/New_York",
+        "eldSettings": {
+          "rulesets": [
+            {
+              "break": "Property (off-duty/sleeper)",
+              "cycle": "USA 70 hour / 8 day",
+              "restart": "34-hour Restart",
+              "shift": "US Interstate Property"
+            }
+          ]
+        },
+        "id": "1460263",
+        "name": "Christopher Hawkins"
+      },
+      "startTime": "2021-11-11T05:00:00.000Z",
+      "endTime": "2021-11-12T05:00:00.000Z",
+      "logMetaData": {
+        "shippingDocs": "788334, 788426",
+        "trailerNames": [
+          "317310",
+          "313122",
+          "V53C04",
+          "313081"
+        ],
+        "vehicles": [
+          {
+            "id": "212014918018408",
+            "name": "113640",
+            "externalIds": {
+              "samsara.serial": "G9TN24W2UW",
+              "samsara.vin": "1FUJGLD52FLGL3531"
+            }
+          },
+          {
+            "id": "212014918018482",
+            "name": "162184",
+            "externalIds": {
+              "samsara.serial": "GJ7VWMJUAJ",
+              "samsara.vin": "1FUJGLDR4HLHY3114"
+            }
+          }
+        ],
+        "isCertified": true,
+        "certifiedAtTime": "2021-11-12T05:00:24.462Z",
+        "adverseDrivingClaimed": false,
+        "bigDayClaimed": false,
+        "isUsShortHaulActive": false,
+        "carrierName": "Xpress Global System LLC.",
+        "carrierFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755",
+        "carrierUsDotNumber": 534817,
+        "homeTerminalName": "Xpress Global System LLC.",
+        "homeTerminalFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755"
+      },
+      "distanceTraveled": {
+        "driveDistanceMeters": 848815
+      },
+      "dutyStatusDurations": {
+        "activeDurationMs": 37273999,
+        "onDutyDurationMs": 1145246,
+        "driveDurationMs": 33535753,
+        "offDutyDurationMs": 49126000,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 2593000,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      },
+      "pendingDutyStatusDurations": {
+        "activeDurationMs": 37273999,
+        "onDutyDurationMs": 1145246,
+        "driveDurationMs": 33535753,
+        "offDutyDurationMs": 49126000,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 2593000,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      }
+    },
+    {
+      "driver": {
+        "timezone": "America/New_York",
+        "eldSettings": {
+          "rulesets": [
+            {
+              "break": "Property (off-duty/sleeper)",
+              "cycle": "USA 70 hour / 8 day",
+              "restart": "34-hour Restart",
+              "shift": "US Interstate Property"
+            }
+          ]
+        },
+        "id": "1460264",
+        "name": "Jonathan Suggs"
+      },
+      "startTime": "2021-11-11T05:00:00.000Z",
+      "endTime": "2021-11-12T05:00:00.000Z",
+      "logMetaData": {
+        "shippingDocs": "",
+        "trailerNames": [
+          "313062",
+          "10659",
+          "313042",
+          "316247",
+          "317329",
+          "313110",
+          "316236",
+          "317268",
+          "313000",
+          "313079",
+          "316182",
+          "479847",
+          "313018",
+          "527795",
+          "316237",
+          "317319",
+          "146107",
+          "W10110",
+          "317342",
+          "313071",
+          "313143"
+        ],
+        "vehicles": [
+          {
+            "id": "281474978408658",
+            "name": "383789",
+            "externalIds": {
+              "samsara.serial": "GWVEKVEGBE",
+              "samsara.vin": "3AKJHLDV4MSMS5176"
+            }
+          }
+        ],
+        "isCertified": true,
+        "certifiedAtTime": "2021-11-12T05:02:41.050Z",
+        "adverseDrivingClaimed": false,
+        "bigDayClaimed": false,
+        "isUsShortHaulActive": false,
+        "carrierName": "Xpress Global System LLC.",
+        "carrierFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755",
+        "carrierUsDotNumber": 534817,
+        "homeTerminalName": "Xpress Global System LLC.",
+        "homeTerminalFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755"
+      },
+      "distanceTraveled": {
+        "driveDistanceMeters": 156822
+      },
+      "dutyStatusDurations": {
+        "activeDurationMs": 32749999,
+        "onDutyDurationMs": 18258365,
+        "driveDurationMs": 14491634,
+        "offDutyDurationMs": 53650000,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      },
+      "pendingDutyStatusDurations": {
+        "activeDurationMs": 32749999,
+        "onDutyDurationMs": 18258365,
+        "driveDurationMs": 14491634,
+        "offDutyDurationMs": 53650000,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      }
+    },
+    {
+      "driver": {
+        "timezone": "America/New_York",
+        "eldSettings": {
+          "rulesets": [
+            {
+              "break": "Property (off-duty/sleeper)",
+              "cycle": "USA 70 hour / 8 day",
+              "restart": "34-hour Restart",
+              "shift": "US Interstate Property"
+            }
+          ]
+        },
+        "id": "1460265",
+        "name": "Jeffrey Abear"
+      },
+      "startTime": "2021-11-11T05:00:00.000Z",
+      "endTime": "2021-11-12T05:00:00.000Z",
+      "logMetaData": {
+        "shippingDocs": "",
+        "trailerNames": [
+          "542210"
+        ],
+        "vehicles": [
+          {
+            "id": "212014918018467",
+            "name": "102434",
+            "externalIds": {
+              "samsara.serial": "G4HAMSEZJZ",
+              "samsara.vin": "3AKJGEDV3FSGC9516"
+            }
+          },
+          {
+            "id": "212014918018850",
+            "name": "316769",
+            "externalIds": {
+              "samsara.serial": "G4NS5K6DDK",
+              "samsara.vin": "3AKJHLDV8JSJW9670"
+            }
+          }
+        ],
+        "isCertified": true,
+        "certifiedAtTime": "2021-11-12T12:24:26.974Z",
+        "adverseDrivingClaimed": false,
+        "bigDayClaimed": false,
+        "isUsShortHaulActive": false,
+        "carrierName": "Xpress Global System LLC.",
+        "carrierFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755",
+        "carrierUsDotNumber": 534817,
+        "homeTerminalName": "Xpress Global System LLC.",
+        "homeTerminalFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755"
+      },
+      "distanceTraveled": {
+        "driveDistanceMeters": 214369
+      },
+      "dutyStatusDurations": {
+        "activeDurationMs": 26979369,
+        "onDutyDurationMs": 14054374,
+        "driveDurationMs": 12924995,
+        "offDutyDurationMs": 59420630,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      },
+      "pendingDutyStatusDurations": {
+        "activeDurationMs": 26979369,
+        "onDutyDurationMs": 14054374,
+        "driveDurationMs": 12924995,
+        "offDutyDurationMs": 59420630,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      }
+    },
+    {
+      "driver": {
+        "timezone": "America/New_York",
+        "eldSettings": {
+          "rulesets": [
+            {
+              "break": "Property (off-duty/sleeper)",
+              "cycle": "USA 70 hour / 8 day",
+              "restart": "34-hour Restart",
+              "shift": "US Interstate Property"
+            }
+          ]
+        },
+        "id": "1460266",
+        "name": "Michael Biggs"
+      },
+      "startTime": "2021-11-11T05:00:00.000Z",
+      "endTime": "2021-11-12T05:00:00.000Z",
+      "logMetaData": {
+        "shippingDocs": "",
+        "trailerNames": [
+          "317285",
+          "313046",
+          ".801484"
+        ],
+        "vehicles": [
+          {
+            "id": "212014918018802",
+            "name": "317123",
+            "externalIds": {
+              "samsara.serial": "G3Y9WPNYC8",
+              "samsara.vin": "3AKJHLDV6JSJX5080"
+            }
+          }
+        ],
+        "isCertified": true,
+        "certifiedAtTime": "2021-11-11T21:37:16.814Z",
+        "adverseDrivingClaimed": false,
+        "bigDayClaimed": false,
+        "isUsShortHaulActive": false,
+        "carrierName": "Xpress Global System LLC.",
+        "carrierFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755",
+        "carrierUsDotNumber": 534817,
+        "homeTerminalName": "Xpress Global System LLC.",
+        "homeTerminalFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755"
+      },
+      "distanceTraveled": {
+        "driveDistanceMeters": 147857
+      },
+      "dutyStatusDurations": {
+        "activeDurationMs": 27529358,
+        "onDutyDurationMs": 17641984,
+        "driveDurationMs": 9887374,
+        "offDutyDurationMs": 58870641,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      },
+      "pendingDutyStatusDurations": {
+        "activeDurationMs": 27529358,
+        "onDutyDurationMs": 17641984,
+        "driveDurationMs": 9887374,
+        "offDutyDurationMs": 58870641,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      }
+    },
+    {
+      "driver": {
+        "timezone": "America/New_York",
+        "eldSettings": {
+          "rulesets": [
+            {
+              "break": "Property (off-duty/sleeper)",
+              "cycle": "USA 70 hour / 8 day",
+              "restart": "34-hour Restart",
+              "shift": "US Interstate Property"
+            }
+          ]
+        },
+        "id": "1460267",
+        "name": "Gaylund Wolf"
+      },
+      "startTime": "2021-11-11T05:00:00.000Z",
+      "endTime": "2021-11-12T05:00:00.000Z",
+      "logMetaData": {
+        "shippingDocs": "",
+        "trailerNames": [
+          "313157",
+          "316256"
+        ],
+        "vehicles": [
+          {
+            "id": "281474978408658",
+            "name": "383789",
+            "externalIds": {
+              "samsara.serial": "GWVEKVEGBE",
+              "samsara.vin": "3AKJHLDV4MSMS5176"
+            }
+          }
+        ],
+        "isCertified": false,
+        "adverseDrivingClaimed": false,
+        "bigDayClaimed": false,
+        "isUsShortHaulActive": false,
+        "carrierName": "Xpress Global System LLC.",
+        "carrierFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755",
+        "carrierUsDotNumber": 534817,
+        "homeTerminalName": "",
+        "homeTerminalFormattedAddress": ""
+      },
+      "distanceTraveled": {
+        "driveDistanceMeters": 378180
+      },
+      "dutyStatusDurations": {
+        "activeDurationMs": 27430217,
+        "onDutyDurationMs": 7765702,
+        "driveDurationMs": 19664515,
+        "offDutyDurationMs": 58969782,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      },
+      "pendingDutyStatusDurations": {
+        "activeDurationMs": 27430217,
+        "onDutyDurationMs": 7765702,
+        "driveDurationMs": 19664515,
+        "offDutyDurationMs": 58969782,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      }
+    },
+    {
+      "driver": {
+        "timezone": "America/New_York",
+        "eldSettings": {
+          "rulesets": [
+            {
+              "break": "Property (off-duty/sleeper)",
+              "cycle": "USA 70 hour / 8 day",
+              "restart": "34-hour Restart",
+              "shift": "US Interstate Property"
+            }
+          ]
+        },
+        "id": "1460268",
+        "name": "David Aiken"
+      },
+      "startTime": "2021-11-11T05:00:00.000Z",
+      "endTime": "2021-11-12T05:00:00.000Z",
+      "logMetaData": {
+        "shippingDocs": "788326, 788287",
+        "trailerNames": [
+          "5306",
+          "316189"
+        ],
+        "vehicles": [
+          {
+            "id": "212014918018486",
+            "name": "131293",
+            "externalIds": {
+              "samsara.serial": "GAJUJGZZUP",
+              "samsara.vin": "3AKJGLBG9GSGZ6927"
+            }
+          }
+        ],
+        "isCertified": true,
+        "certifiedAtTime": "2021-11-14T03:30:06.587Z",
+        "adverseDrivingClaimed": false,
+        "bigDayClaimed": false,
+        "isUsShortHaulActive": false,
+        "carrierName": "Xpress Global System LLC.",
+        "carrierFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755",
+        "carrierUsDotNumber": 534817,
+        "homeTerminalName": "Xpress Global System LLC.",
+        "homeTerminalFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755"
+      },
+      "distanceTraveled": {
+        "driveDistanceMeters": 1105646
+      },
+      "dutyStatusDurations": {
+        "activeDurationMs": 43325974,
+        "onDutyDurationMs": 3801000,
+        "driveDurationMs": 38374974,
+        "offDutyDurationMs": 6848025,
+        "sleeperBerthDurationMs": 36226000,
+        "yardMoveDurationMs": 1150000,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      },
+      "pendingDutyStatusDurations": {
+        "activeDurationMs": 43325974,
+        "onDutyDurationMs": 3801000,
+        "driveDurationMs": 38374974,
+        "offDutyDurationMs": 6848025,
+        "sleeperBerthDurationMs": 36226000,
+        "yardMoveDurationMs": 1150000,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      }
+    },
+    {
+      "driver": {
+        "timezone": "America/New_York",
+        "eldSettings": {
+          "rulesets": [
+            {
+              "break": "Property (off-duty/sleeper)",
+              "cycle": "USA 70 hour / 8 day",
+              "restart": "34-hour Restart",
+              "shift": "US Interstate Property"
+            }
+          ]
+        },
+        "id": "1460271",
+        "name": "Johnny Lynn"
+      },
+      "startTime": "2021-11-11T05:00:00.000Z",
+      "endTime": "2021-11-12T05:00:00.000Z",
+      "logMetaData": {
+        "shippingDocs": "",
+        "isCertified": false,
+        "adverseDrivingClaimed": false,
+        "bigDayClaimed": false,
+        "isUsShortHaulActive": false,
+        "carrierName": "",
+        "carrierFormattedAddress": "",
+        "carrierUsDotNumber": 0,
+        "homeTerminalName": "",
+        "homeTerminalFormattedAddress": ""
+      },
+      "distanceTraveled": {
+        "driveDistanceMeters": 0
+      },
+      "dutyStatusDurations": {
+        "activeDurationMs": 0,
+        "onDutyDurationMs": 0,
+        "driveDurationMs": 0,
+        "offDutyDurationMs": 86399999,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      },
+      "pendingDutyStatusDurations": {
+        "activeDurationMs": 0,
+        "onDutyDurationMs": 0,
+        "driveDurationMs": 0,
+        "offDutyDurationMs": 86399999,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      }
+    },
+    {
+      "driver": {
+        "timezone": "America/New_York",
+        "eldSettings": {
+          "rulesets": [
+            {
+              "break": "Property (off-duty/sleeper)",
+              "cycle": "USA 70 hour / 8 day",
+              "restart": "34-hour Restart",
+              "shift": "US Interstate Property"
+            }
+          ]
+        },
+        "id": "1460272",
+        "name": "Kevin Evans"
+      },
+      "startTime": "2021-11-11T05:00:00.000Z",
+      "endTime": "2021-11-12T05:00:00.000Z",
+      "logMetaData": {
+        "shippingDocs": "",
+        "isCertified": true,
+        "certifiedAtTime": "2021-11-13T15:53:56.192Z",
+        "adverseDrivingClaimed": false,
+        "bigDayClaimed": false,
+        "isUsShortHaulActive": false,
+        "carrierName": "Xpress Global System LLC.",
+        "carrierFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755",
+        "carrierUsDotNumber": 534817,
+        "homeTerminalName": "Xpress Global System LLC.",
+        "homeTerminalFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755"
+      },
+      "distanceTraveled": {
+        "driveDistanceMeters": 0
+      },
+      "dutyStatusDurations": {
+        "activeDurationMs": 0,
+        "onDutyDurationMs": 0,
+        "driveDurationMs": 0,
+        "offDutyDurationMs": 86399999,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      },
+      "pendingDutyStatusDurations": {
+        "activeDurationMs": 0,
+        "onDutyDurationMs": 0,
+        "driveDurationMs": 0,
+        "offDutyDurationMs": 86399999,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      }
+    },
+    {
+      "driver": {
+        "timezone": "America/New_York",
+        "eldSettings": {
+          "rulesets": [
+            {
+              "break": "Property (off-duty/sleeper)",
+              "cycle": "USA 70 hour / 8 day",
+              "restart": "34-hour Restart",
+              "shift": "US Interstate Property"
+            }
+          ]
+        },
+        "id": "1460273",
+        "name": "Danny Coots"
+      },
+      "startTime": "2021-11-11T05:00:00.000Z",
+      "endTime": "2021-11-12T05:00:00.000Z",
+      "logMetaData": {
+        "shippingDocs": "",
+        "trailerNames": [
+          "313151",
+          "700761"
+        ],
+        "vehicles": [
+          {
+            "id": "212014918018459",
+            "name": "162173",
+            "externalIds": {
+              "samsara.serial": "GZFC4XMSKT",
+              "samsara.vin": "1FUGGEDV0HLHY3761"
+            }
+          }
+        ],
+        "isCertified": true,
+        "certifiedAtTime": "2021-11-12T11:05:32.288Z",
+        "adverseDrivingClaimed": false,
+        "bigDayClaimed": false,
+        "isUsShortHaulActive": false,
+        "carrierName": "Xpress Global System LLC.",
+        "carrierFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755",
+        "carrierUsDotNumber": 534817,
+        "homeTerminalName": "Xpress Global System LLC.",
+        "homeTerminalFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755"
+      },
+      "distanceTraveled": {
+        "driveDistanceMeters": 309242
+      },
+      "dutyStatusDurations": {
+        "activeDurationMs": 27821782,
+        "onDutyDurationMs": 8178726,
+        "driveDurationMs": 19643056,
+        "offDutyDurationMs": 58578217,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      },
+      "pendingDutyStatusDurations": {
+        "activeDurationMs": 27821782,
+        "onDutyDurationMs": 8178726,
+        "driveDurationMs": 19643056,
+        "offDutyDurationMs": 58578217,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      }
+    },
+    {
+      "driver": {
+        "timezone": "America/New_York",
+        "eldSettings": {
+          "rulesets": [
+            {
+              "break": "Property (off-duty/sleeper)",
+              "cycle": "USA 70 hour / 8 day",
+              "restart": "34-hour Restart",
+              "shift": "US Interstate Property"
+            }
+          ]
+        },
+        "id": "1460274",
+        "name": "Cindy Coots"
+      },
+      "startTime": "2021-11-11T05:00:00.000Z",
+      "endTime": "2021-11-12T05:00:00.000Z",
+      "logMetaData": {
+        "shippingDocs": "",
+        "trailerNames": [
+          "313120"
+        ],
+        "vehicles": [
+          {
+            "id": "212014918018684",
+            "name": "277717",
+            "externalIds": {
+              "samsara.serial": "GVHT5NAXHW",
+              "samsara.vin": "3AKJHLDV8JSJT0769"
+            }
+          }
+        ],
+        "isCertified": true,
+        "certifiedAtTime": "2021-11-12T11:10:46.831Z",
+        "adverseDrivingClaimed": false,
+        "bigDayClaimed": false,
+        "isUsShortHaulActive": false,
+        "carrierName": "Xpress Global System LLC.",
+        "carrierFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755",
+        "carrierUsDotNumber": 534817,
+        "homeTerminalName": "Xpress Global System LLC.",
+        "homeTerminalFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755"
+      },
+      "distanceTraveled": {
+        "driveDistanceMeters": 212178
+      },
+      "dutyStatusDurations": {
+        "activeDurationMs": 29053000,
+        "onDutyDurationMs": 15448094,
+        "driveDurationMs": 13604906,
+        "offDutyDurationMs": 57346999,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      },
+      "pendingDutyStatusDurations": {
+        "activeDurationMs": 29053000,
+        "onDutyDurationMs": 15448094,
+        "driveDurationMs": 13604906,
+        "offDutyDurationMs": 57346999,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      }
+    },
+    {
+      "driver": {
+        "timezone": "America/New_York",
+        "eldSettings": {
+          "rulesets": [
+            {
+              "break": "Property (off-duty/sleeper)",
+              "cycle": "USA 70 hour / 8 day",
+              "restart": "34-hour Restart",
+              "shift": "US Interstate Property"
+            }
+          ]
+        },
+        "id": "1460276",
+        "name": "Danny Whitmire"
+      },
+      "startTime": "2021-11-11T05:00:00.000Z",
+      "endTime": "2021-11-12T05:00:00.000Z",
+      "logMetaData": {
+        "shippingDocs": "788418",
+        "trailerNames": [
+          "316182"
+        ],
+        "vehicles": [
+          {
+            "id": "212014918018482",
+            "name": "162184",
+            "externalIds": {
+              "samsara.serial": "GJ7VWMJUAJ",
+              "samsara.vin": "1FUJGLDR4HLHY3114"
+            }
+          }
+        ],
+        "isCertified": true,
+        "certifiedAtTime": "2021-11-13T02:31:27.982Z",
+        "adverseDrivingClaimed": false,
+        "bigDayClaimed": false,
+        "isUsShortHaulActive": false,
+        "carrierName": "Xpress Global System LLC.",
+        "carrierFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755",
+        "carrierUsDotNumber": 534817,
+        "homeTerminalName": "Xpress Global System LLC.",
+        "homeTerminalFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755"
+      },
+      "distanceTraveled": {
+        "driveDistanceMeters": 914951
+      },
+      "dutyStatusDurations": {
+        "activeDurationMs": 35116974,
+        "onDutyDurationMs": 1335994,
+        "driveDurationMs": 33780980,
+        "offDutyDurationMs": 51283025,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      },
+      "pendingDutyStatusDurations": {
+        "activeDurationMs": 35116974,
+        "onDutyDurationMs": 1335994,
+        "driveDurationMs": 33780980,
+        "offDutyDurationMs": 51283025,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      }
+    },
+    {
+      "driver": {
+        "timezone": "America/New_York",
+        "eldSettings": {
+          "rulesets": [
+            {
+              "break": "Property (off-duty/sleeper)",
+              "cycle": "USA 70 hour / 8 day",
+              "restart": "34-hour Restart",
+              "shift": "US Interstate Property"
+            }
+          ]
+        },
+        "id": "1460277",
+        "name": "John Ramey"
+      },
+      "startTime": "2021-11-11T05:00:00.000Z",
+      "endTime": "2021-11-12T05:00:00.000Z",
+      "logMetaData": {
+        "shippingDocs": "",
+        "isCertified": false,
+        "adverseDrivingClaimed": false,
+        "bigDayClaimed": false,
+        "isUsShortHaulActive": false,
+        "carrierName": "",
+        "carrierFormattedAddress": "",
+        "carrierUsDotNumber": 0,
+        "homeTerminalName": "",
+        "homeTerminalFormattedAddress": ""
+      },
+      "distanceTraveled": {
+        "driveDistanceMeters": 0
+      },
+      "dutyStatusDurations": {
+        "activeDurationMs": 0,
+        "onDutyDurationMs": 0,
+        "driveDurationMs": 0,
+        "offDutyDurationMs": 86399999,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      },
+      "pendingDutyStatusDurations": {
+        "activeDurationMs": 0,
+        "onDutyDurationMs": 0,
+        "driveDurationMs": 0,
+        "offDutyDurationMs": 86399999,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      }
+    },
+    {
+      "driver": {
+        "timezone": "America/New_York",
+        "eldSettings": {
+          "rulesets": [
+            {
+              "break": "Property (off-duty/sleeper)",
+              "cycle": "USA 70 hour / 8 day",
+              "restart": "34-hour Restart",
+              "shift": "US Interstate Property"
+            }
+          ]
+        },
+        "id": "1460291",
+        "name": "Rodney Fox"
+      },
+      "startTime": "2021-11-11T05:00:00.000Z",
+      "endTime": "2021-11-12T05:00:00.000Z",
+      "logMetaData": {
+        "shippingDocs": "",
+        "trailerNames": [
+          "317288"
+        ],
+        "vehicles": [
+          {
+            "id": "212014918018902",
+            "name": "317115",
+            "externalIds": {
+              "samsara.serial": "GP7N8EDHG2",
+              "samsara.vin": "3AKJHLDV7JSJX5072"
+            }
+          }
+        ],
+        "isCertified": true,
+        "certifiedAtTime": "2021-11-12T14:45:43.083Z",
+        "adverseDrivingClaimed": false,
+        "bigDayClaimed": false,
+        "isUsShortHaulActive": false,
+        "carrierName": "Xpress Global System LLC.",
+        "carrierFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755",
+        "carrierUsDotNumber": 534817,
+        "homeTerminalName": "Xpress Global System LLC.",
+        "homeTerminalFormattedAddress": "1537 New Hope Church Road. Tunnel Hill, GA 30755"
+      },
+      "distanceTraveled": {
+        "driveDistanceMeters": 84879
+      },
+      "dutyStatusDurations": {
+        "activeDurationMs": 28995000,
+        "onDutyDurationMs": 18864059,
+        "driveDurationMs": 10130941,
+        "offDutyDurationMs": 57404999,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      },
+      "pendingDutyStatusDurations": {
+        "activeDurationMs": 28995000,
+        "onDutyDurationMs": 18864059,
+        "driveDurationMs": 10130941,
+        "offDutyDurationMs": 57404999,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      }
+    },
+    {
+      "driver": {
+        "timezone": "America/Los_Angeles",
+        "eldSettings": {
+          "rulesets": [
+            {
+              "break": "Property (off-duty/sleeper)",
+              "cycle": "USA 70 hour / 8 day",
+              "restart": "34-hour Restart",
+              "shift": "US Interstate Property"
+            }
+          ]
+        },
+        "id": "1460378",
+        "name": "Hector Navarro"
+      },
+      "startTime": "2021-11-11T08:00:00.000Z",
+      "endTime": "2021-11-12T08:00:00.000Z",
+      "logMetaData": {
+        "shippingDocs": "",
+        "isCertified": false,
+        "adverseDrivingClaimed": false,
+        "bigDayClaimed": false,
+        "isUsShortHaulActive": false,
+        "carrierName": "",
+        "carrierFormattedAddress": "",
+        "carrierUsDotNumber": 0,
+        "homeTerminalName": "",
+        "homeTerminalFormattedAddress": ""
+      },
+      "distanceTraveled": {
+        "driveDistanceMeters": 0
+      },
+      "dutyStatusDurations": {
+        "activeDurationMs": 0,
+        "onDutyDurationMs": 0,
+        "driveDurationMs": 0,
+        "offDutyDurationMs": 86399999,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      },
+      "pendingDutyStatusDurations": {
+        "activeDurationMs": 0,
+        "onDutyDurationMs": 0,
+        "driveDurationMs": 0,
+        "offDutyDurationMs": 86399999,
+        "sleeperBerthDurationMs": 0,
+        "yardMoveDurationMs": 0,
+        "personalConveyanceDurationMs": 0,
+        "waitingTimeDurationMs": 0
+      }
+    }
+  ],
+  "pagination": {
+    "endCursor": "96cb9db4-ee4c-4f69-9312-59b246739587",
+    "hasNextPage": true
+  }
+}
